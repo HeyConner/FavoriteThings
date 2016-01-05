@@ -1,0 +1,22 @@
+img {
+  max-width: 350px;
+}
+
+li {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  list-style: none;
+}
+h1 {
+  color: #cb7375;
+  text-align: center;
+}
+body {
+  background-color: #bed2d0;
+
+  }
+  p {
+    color: red;
+    font-size: 40px
+  }
